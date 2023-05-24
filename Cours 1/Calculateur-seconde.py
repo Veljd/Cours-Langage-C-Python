@@ -8,3 +8,4 @@ minute = nbseconde // m2sec % m2sec
 seconde = nbseconde % m2sec
 
 print("Ce nombre de secondes correspond à :", heure, "heure(s) et", minute, "minute(s) et", seconde, "seconde(s)")
+print(" ")
